@@ -1,4 +1,6 @@
 # NGaDNAP
+
+[![Join the chat at https://gitter.im/smilefreak/NGaDNAP](https://badges.gitter.im/smilefreak/NGaDNAP.svg)](https://gitter.im/smilefreak/NGaDNAP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 NGS Pipeline for Ancient DNA analysis.
 
 [![Documentation Status](https://readthedocs.org/projects/ngadnap/badge/?version=latest)](http://ngadnap.readthedocs.org/en/latest/?badge=latest) 
